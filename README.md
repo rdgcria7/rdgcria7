@@ -14,3 +14,6 @@
   <img align="center" alt="Rdg-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
 </div>
+
+### My social newtorks:
+<a href="https://www.linkedin.com/in/rodrigo-pousada-vieira-92b606208/"><img src="https://img.shields.io/badge/LinkedIn-F6F6F6?style=for-the-badge&logo=linkedin&logoColor=black"> </img></a>
