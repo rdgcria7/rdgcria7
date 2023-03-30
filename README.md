@@ -1,7 +1,7 @@
 ### Prazer Rodrigo Pousada 👋🏾🥇🥋☯️
 
 
-- 🚀 Estudando sexo pai kkkk
+- 🚀 Estudando Javascript
 - 👔 Conhecimento Back-End
 - 🥼 Cursando Desenvolvimento de Software
 - 📩 Email - rodrigopousadaviera6@gmail.com
