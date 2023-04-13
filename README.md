@@ -1,4 +1,4 @@
-### Prazer Rodrigo Pousada 👋🏾🥇🥋☯️
+### Prazer Rodrigo Pousada 👋🏾🥇☯️
 
 
 - 🚀 Estudando Javascript
