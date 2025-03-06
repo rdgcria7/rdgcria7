@@ -3,8 +3,8 @@
 
 - 🚀 Estudando Javascript
 - 👔 Conhecimento Back-End
-- 🥼 Cursando Desenvolvimento de Software
-- 📩 Email - rodrigopousadaviera6@gmail.com
+- 🥼 Cursando Analise e Desenvolvimento de Software USJT
+- 📩 Email - rodrigopousada7@gmail.com
 
 #### Algumas Linguagens que estou aprendendo😉:
 <div style="display: inline_block">
