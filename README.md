@@ -1,7 +1,7 @@
 ### Prazer Rodrigo Pousada 👋🏾🥇☯️
 
 
-- 🚀 Estudando Javascript
+- 🚀 Estudando Java
 - 👔 Conhecimento Back-End
 - 🥼 Cursando Analise e Desenvolvimento de Software USJT
 - 📩 Email - rodrigopousada7@gmail.com
